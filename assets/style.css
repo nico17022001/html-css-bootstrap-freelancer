@@ -39,6 +39,19 @@ h3{
   width: 80%;
 }
 
+.filter{
+  background-color: #008372a5;
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+
+
+.filtered:hover .filter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 /*ELEMENTS*/
 body{
@@ -66,9 +79,6 @@ header i{
   cursor: pointer;
 }
 
-.img-container{
-  object-fit: contain;
-}
 
 
 /*MEDIA QUERY*/
