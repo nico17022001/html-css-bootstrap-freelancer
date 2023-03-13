@@ -59,6 +59,14 @@ h3{
   cursor: pointer;
 }
 
+.little-container{
+  width: 60%;
+}
+
+.mic{
+  color: #38495a;
+}
+
 /*ELEMENTS*/
 body{
   font-family: 'Roboto', sans-serif;
