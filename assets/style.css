@@ -53,6 +53,12 @@ h3{
   align-items: center;
 }
 
+.nd-div{
+  border: white 1px solid;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 /*ELEMENTS*/
 body{
   font-family: 'Roboto', sans-serif;
